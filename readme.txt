@@ -1,0 +1,1 @@
+Gunakan internet untuk performa terbaik aplikasi web
