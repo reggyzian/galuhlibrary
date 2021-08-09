@@ -1,7 +1,7 @@
 <?php include("master/head.php"); ?>
 <div class="container">
     <div class="alert alert-warning alert-dismissible">
-        Nyalakan internet untuk tampilan aplikasi yang baik
+        Nyalakan internet untuk tampilan aplikasi yang baikk
         <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
     </div>
     <div class="card mb-5">
